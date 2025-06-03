@@ -1,11 +1,26 @@
-# Pokémon Emerald
+# Pokémon Emerald Decompilation
 
-This is a decompilation of Pokémon Emerald.
+## About
 
-It builds the following ROM:
+This repository contains a **decompiled version** of the Pokémon Emerald game for the Game Boy Advance (GBA).  
+Originally, the game was written primarily in the **C programming language**.
 
-* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
+I am actively working on understanding the game mechanisms to deepen my knowledge of game development.  
+This project serves as a learning journey to explore and dissect how a classic game like Pokémon Emerald is built under the hood.
 
-To set up the repository, see [INSTALL.md](INSTALL.md).
+---
+
+### Goals:
+- Explore the game's source code and mechanics  
+- Learn about game development and low-level programming  
+- Experiment with modifications and improvements  
+
+---
+
+Feel free to explore, contribute, or share your insights!
+
+---
+
+© 2025 Levi 
 
 
